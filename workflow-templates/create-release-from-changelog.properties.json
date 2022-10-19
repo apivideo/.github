@@ -1,0 +1,7 @@
+{
+  "name": "Create release from CHANGELOG.md workflow",
+  "description": "Create a release when a new entry has been added to CHANGELOG.md.",
+  "filePatterns": [
+    "CHANGELOG.md"
+  ]
+}
