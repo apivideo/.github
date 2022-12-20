@@ -1,4 +1,4 @@
-![](https://github.com/apivideo/API_OAS_file/blob/master/apivideo_banner.png)
+![](https://github.com/apivideo/.github/blob/main/assets/apivideo_banner.png)
 
 [api.video](https://api.video) is the video infrastructure for product builders. Lightning fast video APIs for integrating, scaling, and managing on-demand & low latency live streaming features in your app.
 
